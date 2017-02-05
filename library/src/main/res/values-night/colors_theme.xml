@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_day_night_status_bar">@color/theme_dark_app_bar</color>
+    <color name="theme_day_night_app_bar">@color/theme_dark_status_bar</color>
+    <color name="theme_day_night_background">@color/theme_dark_background</color>
+    <color name="theme_day_night_dialogs">@color/theme_dark_dialogs</color>
+    <color name="theme_day_night_cards">@color/theme_dark_cards</color>
+</resources>

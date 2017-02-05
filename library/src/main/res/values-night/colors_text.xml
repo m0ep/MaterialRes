@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors for text that switch to the dark theme at night -->
+    <color name="text_day_night_normal">@color/text_dark_normal</color>
+    <color name="text_day_night_secondary">@color/text_dark_secondary</color>
+    <color name="text_day_night_disabled">@color/text_dark_disabled</color>
+    <color name="text_day_night_hint">@color/text_dark_hint</color>
+</resources>

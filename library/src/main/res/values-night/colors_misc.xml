@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="view_day_night_divider">@color/view_dark_divider</color>
+    <color name="icon_day_night_active">@color/icon_dark_active</color>
+    <color name="icon_day_night_inactive">@color/icon_dark_inactive</color>
+</resources>

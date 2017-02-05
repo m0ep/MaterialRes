@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="view_light_divider">#1E000000</color>
+    <color name="icon_light_active">#89000000</color>
+    <color name="icon_light_inactive">#42000000</color>
+
+    <color name="view_dark_divider">#1EFFFFFF</color>
+    <color name="icon_dark_active">#FFFFFFFF</color>
+    <color name="icon_dark_inactive">#4CFFFFFF</color>
+
+    <color name="view_day_night_divider">@color/view_light_divider</color>
+    <color name="icon_day_night_active">@color/icon_light_active</color>
+    <color name="icon_day_night_inactive">@color/icon_light_inactive</color>
+</resources>

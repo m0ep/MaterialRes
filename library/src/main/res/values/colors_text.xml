@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors for text on a light background -->
+    <color name="text_light_normal">#DD000000</color>
+    <color name="text_light_secondary">#89000000</color>
+    <color name="text_light_disabled">#42000000</color>
+    <color name="text_light_hint">#42000000</color>
+
+    <!-- Colors for text on a dark background -->
+    <color name="text_dark_normal">#FFFFFFFF</color>
+    <color name="text_dark_secondary">#B2FFFFFF</color>
+    <color name="text_dark_disabled">#4CFFFFFF</color>
+    <color name="text_dark_hint">#4CFFFFFF</color>
+
+    <!-- Colors for text that switch to the light theme at day -->
+    <color name="text_day_night_normal">@color/text_light_normal</color>
+    <color name="text_day_night_secondary">@color/text_light_secondary</color>
+    <color name="text_day_night_disabled">@color/text_light_disabled</color>
+    <color name="text_day_night_hint">@color/text_light_hint</color>
+</resources>
