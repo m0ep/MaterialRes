@@ -2,15 +2,15 @@
 <resources>
     <color name="theme_light_status_bar">@color/grey_300</color>
     <color name="theme_light_app_bar">@color/grey_100</color>
-    <color name="theme_light_background">@color/green_50</color>
+    <color name="theme_light_background">@color/grey_50</color>
     <color name="theme_light_dialogs">@color/white</color>
     <color name="theme_light_cards">@color/white</color>
 
     <color name="theme_dark_status_bar">@color/black</color>
     <color name="theme_dark_app_bar">@color/grey_900</color>
     <color name="theme_dark_background">#303030</color>
-    <color name="theme_dark_dialogs">@color/green_800</color>
-    <color name="theme_dark_cards">@color/green_800</color>
+    <color name="theme_dark_dialogs">@color/grey_800</color>
+    <color name="theme_dark_cards">@color/grey_800</color>
 
     <color name="theme_day_night_status_bar">@color/theme_light_app_bar</color>
     <color name="theme_day_night_app_bar">@color/theme_light_status_bar</color>
